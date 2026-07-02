@@ -5,8 +5,7 @@
 
 ## Skills
 
-[![Top Langs](https://github-stats-pi.vercel.app/api/top-langs/?username=invisal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-stats-pi.vercel.app/api/top-langs/?username=longchheang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Contact
