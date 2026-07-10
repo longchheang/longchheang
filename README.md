@@ -1,4 +1,5 @@
 <div align="center">
+
 # Hi, I'm Long Chheang 👋
 
 🎓 Final-year IT Engineering Student at RUPP
@@ -11,8 +12,8 @@
 
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/longchheang/
-- Email: tlongchheang@gmail.com
+
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Long_chheang)
 
 
 <!--
