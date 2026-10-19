@@ -45,7 +45,7 @@ Graduate Computer Science / IT Engineer based in Phnom Penh, Cambodia. Passionat
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
+<!-- 
 ## 📌 Featured Projects
 
 ### 🚗 [AUTO VAL — Car Price Prediction System](https://github.com/longchheang)
@@ -61,7 +61,7 @@ Graduate Computer Science / IT Engineer based in Phnom Penh, Cambodia. Passionat
 * **Tech Stack:** Kotlin, OOP Architecture, Git.
 
 ---
-
+-->
 ## 📊 GitHub Stats
 
 <p align="center">
